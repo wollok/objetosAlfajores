@@ -1,5 +1,5 @@
 object alfajorDeDulceDeLeche {
-	const precio = 50
+	const precio = 100
 	
 	method precio() {
 		return precio

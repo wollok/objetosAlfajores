@@ -26,7 +26,7 @@ object juan {
 	method vendeBarato(){
 		return producto.precio() < 100 
 	}
-	method cambiarAlfajor(nuevoProducto){
+	method cambiarProducto(nuevoProducto){
 		producto = nuevoProducto
 	}
 	method queVendes(){ return producto}
